@@ -1,0 +1,22 @@
+{
+    "site_title": "日韩热门电影-热门电影片库-高清影片在线观看",
+    "logo": "日韩热门电影",
+    "source_zip": "project-bolt-sb1-kumcmvth - 副本.zip",
+    "movie_records_parsed": 1976,
+    "detail_pages_generated": 1976,
+    "category_pages_generated": 10,
+    "category_counts": {
+        "日韩精选": 198,
+        "热门电影": 198,
+        "新片推荐": 198,
+        "口碑剧情": 198,
+        "悬疑惊悚": 198,
+        "喜剧家庭": 198,
+        "动作冒险": 197,
+        "爱情剧场": 197,
+        "动画奇幻": 197,
+        "音乐运动": 197
+    },
+    "m3u8_sources_extracted_from_uploaded_js": 20,
+    "top_level_cover_reference_range": "1.jpg - 150.jpg"
+}
